@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 ABOUT ME:
 Junior Developer working in the field of Augmented Reality and Virtual Reality.<br>Skilled in mobile application development as well as having a piece of good knowledge on java and c# programming.<br>
 
 
